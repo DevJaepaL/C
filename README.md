@@ -8,7 +8,7 @@ return 0;
 }
 ```
 
-### This directory for C(or C++) Prac.
+### This directory for C Prac.
 ###### 이 디렉토리는 C 개인 프로젝트 및 복습 디렉토리입니다.
 ###### C를 배우며 숙달이 어느정도 돼면, C# , C++를 공부하여 궁극적으로 게임 개발 프로젝트를 해보려고 합니다. 
 ***
