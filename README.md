@@ -1,12 +1,12 @@
 # C
-'''c
+```C
 #include <stdio.h>
 int main(void) {
 printf("Hello World ! \n");
 
 return 0;
 }
-'''
+```
 
 ### This directory for C(or C++) Prac.\n
 ###### 이 디렉토리는 C 개인 프로젝트 및 복습 디렉토리입니다.
